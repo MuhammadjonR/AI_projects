@@ -1,8 +1,8 @@
+pip install joblib
 import streamlit as st
 import pandas as pd
 import joblib
 import warnings
-
 # Load model
 model_file = "/Users/d/Desktop/Breast_Cancer_Project/knn_model.joblib" 
 with open(model_file, 'rb') as f:
