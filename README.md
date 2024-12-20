@@ -27,6 +27,14 @@ The project uses the **Breast Cancer Wisconsin (Diagnostic) Dataset** to train t
 - 
 ![image](https://github.com/user-attachments/assets/28e63b14-530c-48cb-a7d2-02ed3809463b)
 
+knn_cv.best_params_
+
+![image](https://github.com/user-attachments/assets/5af8aa16-ed36-4feb-8055-c3f8d9228aee)
+
+Correlation matrix 
+
+![image](https://github.com/user-attachments/assets/3ec2ef25-b6f2-4925-ae6e-599123c7a034)
+
 
 ## How to Use
 
