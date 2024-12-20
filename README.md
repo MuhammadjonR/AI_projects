@@ -24,6 +24,10 @@ The project uses the **Breast Cancer Wisconsin (Diagnostic) Dataset** to train t
 - **Recall**: 98.3%
 - **F1 Score**: 98.0%
 
+- 
+![image](https://github.com/user-attachments/assets/28e63b14-530c-48cb-a7d2-02ed3809463b)
+
+
 ## How to Use
 
 1. Clone this repository:
