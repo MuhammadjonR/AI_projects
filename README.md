@@ -1,4 +1,8 @@
 # AI_projects
+
+
+<img width="1428" alt="Screen Shot 2024-12-20 at 12 24 29 PM" src="https://github.com/user-attachments/assets/23e64eda-5fad-4340-9e24-a0d85c442fec" />
+
 # Breast Cancer Detection with K-Nearest Neighbors (KNN)
 
 This project implements a **machine learning model** using the **K-Nearest Neighbors (KNN)** algorithm to predict whether breast cancer tumors are **benign** or **malignant** based on input features.
